@@ -1,3 +1,12 @@
+!
+! Title: 1Hosts (Lite)
+! Description: List for blocking pesky ads, trackers, and malware. Balanced version: set & forget, doesn't hamper user experience.
+! Version: 1.0.25.12
+! Homepage: https://badmojr.github.io/1Hosts/
+! Last modified: 2026-04-04T21:13:03.395Z
+!
+! Compiled by @adguard/hostlist-compiler v2.0.0
+!
 ||a.worldstarlinker.com^
 ||a.wp-e.net^
 ||a.wsrpx.com^
