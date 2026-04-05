@@ -1,1 +1,28 @@
-||ad.line-scdn.net^
+! Title: My Custom Adblock List (Lite)
+! Description: Daftar blokir pribadi untuk iklan, pelacak, dan malware ringan.
+! Version: 1.0.0.20260405
+! Homepage: https://github.com/username/my-filter-list
+! Last modified: 2026-04-05T18:45:00.000Z
+!
+! Format: AdGuard/uBlock Origin
+!
+||ads.example-provider.com^
+||analytics.tracker-service.net^
+||telemetry.os-system.io^
+||pixel.marketing-data.com^
+||api-metrics.global-stats.org^
+||doubleclick.net^
+||google-analytics.com^
+||quantserve.com^
+||scorecardresearch.com^
+||zedo.com^
+||001wen.com^
+||01counter.com^
+||03h6fpes.xyz^
+||04xmhp.ru^
+||054ii.com^
+||066b7e895c.com^
+||adservice.google.com^
+||click.prizewheel.top^
+||mtrack.xyz^
+||track.track-me-not.com^
